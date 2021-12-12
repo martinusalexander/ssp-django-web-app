@@ -1,1 +1,1 @@
-# SSP Django Backend
+# SSP Django Web App
